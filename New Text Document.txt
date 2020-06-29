@@ -1,0 +1,2 @@
+https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+https://towardsdatascience.com/people-analytics-with-attrition-predictions-12adcce9573f
